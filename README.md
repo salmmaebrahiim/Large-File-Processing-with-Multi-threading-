@@ -26,26 +26,5 @@ This project solves the problem by using multi-threading to process different pa
 - BufferedReader
 - File Handling
 
-## How to Run
-
-Clone the repository:
-
-```
-git clone https://github.com/Amirahamdy/LargeFileProcessing.git
-cd LargeFileProcessing
-```
-
-Compile the program:
-
-```
-javac Main.java
-```
-
-Run the program:
-
-```
-java Main
-```
-
 ## Expected Result
 The program processes large files faster by using parallel processing with multiple threads.
